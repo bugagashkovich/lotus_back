@@ -1,0 +1,18 @@
+{
+  "name": "backend_lotos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "graphql": "^16.6.0",
+    "luxon": "^3.1.1",
+    "mongoose": "^6.8.0"
+  }
+}
